@@ -1,4 +1,4 @@
-# PUC 2024/2 - Testes de Aplicações Mobile (TAM): Android
+# PUC 2024/2 - Testes de Aplicações Mobile: Android
 
 Criação do nosso primeiro App Multiplataforma usando o React Native.
 
